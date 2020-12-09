@@ -1,2 +1,2 @@
 # UdhaarPe
-E-commerce rental platform
+E-Commerce rental platform
